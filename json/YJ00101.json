@@ -1,0 +1,27 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "1",
+      "points": [
+        [
+          256.19469026548677,
+          294.6902654867257
+        ],
+        [
+          404.8672566371681,
+          519.4690265486726
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\Imgs\\YJ00101.jpg",
+  "imageData": null,
+  "imageHeight": 800,
+  "imageWidth": 600
+}
